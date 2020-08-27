@@ -7,22 +7,25 @@ You can also click on the Column title's to sort the data according to what you 
 Also if you click on the top left hand box (to the left of the Name box) you will be initiating the "select all" function, simply paste this into an Excel spreadsheet and voila!
  
 
-##Using GLOP
-Simply launch GLOP.exe (Get Lync Objects and Policies).
+## Using GLOP
+1. Simply launch GLOP.exe (Get Lync Objects and Policies).
 
+![1](https://user-images.githubusercontent.com/51378700/91378589-eb509a80-e874-11ea-8a39-2bceb00b6a74.png)
 
-Click on Query Lync to populate the data display window (Lync Core Components required for this). 
+2. Click on Query Lync to populate the data display window (Lync Core Components required for this). 
 
+![2](https://user-images.githubusercontent.com/51378700/91378585-ea1f6d80-e874-11ea-902e-d4de935c3ea9.png)
 
-Once Query is complete,  the Lync Objects will be visible in the window. If the Window has no data then the core components may be missing or your account may not have permissions to query Lync. (TIP Scroll to the right to see what the number is assigned to eg. user, Private Line, RGS Workflow etc.)
-Use the search box to find any number or user
+3. Once Query is complete,  the Lync Objects will be visible in the window. If the Window has no data then the core components may be missing or your account may not have permissions to query Lync. (TIP Scroll to the right to see what the number is assigned to eg. user, Private Line, RGS Workflow etc.)
 
+4. Use the search box to find any number or user
 
- 
+![3](https://user-images.githubusercontent.com/51378700/91378586-eab80400-e874-11ea-8f40-7c845b91355b.png)
 
-Requirements
+## Requirements
 Install the Lync core components of the PC that the tool will be run from. We like to nominate a Tool Server to run this on, also other items such as SEFAUtil.
 
 The usual Lync RBAC permissions are required.
-Revision History
+
+## Revision History
 Version 1.0 - Initial release
